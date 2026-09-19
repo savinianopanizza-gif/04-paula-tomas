@@ -1,0 +1,38 @@
+{
+  "invitation_number": 4,
+  "design": "Paula & Tomás · Azul ilustrada",
+  "couple": "Paula & Tomás",
+  "folder": "04_paula-tomas",
+  "local_assets": [
+    "REMOTE_PHOTOS_AND_LINKS.txt",
+    "css_asset_01.svg",
+    "doodle_balloon.png",
+    "doodle_bow.png",
+    "doodle_calendar.png",
+    "doodle_camera.png",
+    "doodle_champagne_tower.png",
+    "doodle_rings.png",
+    "paper_blue_tile.jpg",
+    "party_art_bottom.jpg",
+    "party_art_top.jpg",
+    "track-04.mp3",
+    "wood_tile.jpg"
+  ],
+  "external_urls": [
+    "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1900&q=86",
+    "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1507501336603-6e31db2be093?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1900&q=88",
+    "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1529634597503-139d3726fed5?auto=format&fit=crop&w=700&q=86",
+    "https://images.unsplash.com/photo-1529634806980-85c3dd6d34ac?auto=format&fit=crop&w=700&q=86"
+  ],
+  "notes": [
+    "Los SVG decorativos se exportan también como archivos independientes, aunque permanecen inline en index.html para conservar exactamente currentColor y la apariencia original.",
+    "Las fotografías de Unsplash continúan como URLs externas, igual que en el código fuente original.",
+    "La música y los elementos gráficos embebidos fueron extraídos a archivos locales."
+  ]
+}
